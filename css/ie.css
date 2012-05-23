@@ -1,0 +1,34 @@
+#name-and-slogan {
+	padding-top: 1px;
+}
+
+
+#primarymenu {
+margin:0px;
+padding:0px;
+}
+
+#primarymenu ul, menu{
+
+width:100%;
+margin:0px;
+padding:0px;
+
+}
+
+#primarymenu ul li {
+margin:0px;
+}
+
+#primarymenu ul#primary li a{
+
+  display:block;
+  float:left;
+  padding:0px auto 0px auto;
+  margin: 0px 0px 0px 0px;
+  font-size: 13px;
+  width:12.36%;
+}
+
+
+.clearfix { padding:0; margin:0;}

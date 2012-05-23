@@ -1,0 +1,53 @@
+name = HDPT CAR
+description = Turmine based on LiteJazz Drupal Theme
+core = 7.x
+engine = phptemplate
+
+regions[sidebar_first] = Sidebar Left
+regions[sidebar_second] = Sidebar Right
+regions[content_top] = Content Top
+regions[content] = Content
+regions[content_bottom] = Content Bottom
+regions[header] = Header
+regions[suckerfish] = Suckerfish Menu
+regions[highlighted] = Highlighted
+regions[user1] = User 1
+regions[user2] = User 2
+regions[user3] = User 3
+regions[user4] = User 4
+regions[user5] = User 5
+regions[user6] = User 6
+regions[user7] = User 7
+regions[user8] = User 8
+regions[footer] = Footer
+regions[footer_message] = Footer message
+regions[help] = Help
+regions[search_box] = Search Box
+regions[page_top] = Page top
+regions[page_bottom] = Page bottom
+
+settings[shortcut_module_link] = 1
+settings[hdpt_style] = blue
+settings[hdpt_width] = '95%'
+; settings[hdpt_fixedwidth] = 850
+settings[hdpt_breadcrumb] = 0
+settings[hdpt_themelogo] = 0
+settings[hdpt_fontfamily] = 0
+settings[hdpt_customfont] = '' 
+settings[hdpt_uselocalcontent] = 0
+settings[hdpt_localcontentfile] = '' 
+settings[hdpt_leftsidebarwidth] = 210
+settings[hdpt_rightsidebarwidth] = 210
+settings[hdpt_suckerfish] = 0
+settings[hdpt_usecustomlogosize] = 0
+settings[hdpt_logowidth] = 100
+settings[hdpt_logoheight] = 100
+settings[hdpt_banner] = 1
+settings[hdpt_pickstyle = 0
+
+; Information added by drupal.org packaging script on 2011-11-07
+version = "7.x-2.2"
+core = "7.x"
+project = "hdpt"
+datestamp = "1320667839"
+
