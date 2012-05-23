@@ -1,4 +1,4 @@
-Installtest
+Install
 
 1. copy the litejazz folder to sites/all/themes/
 2. go to apperance an click enable and set as default
