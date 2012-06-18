@@ -765,7 +765,7 @@ text-align:justify;
 /* Right  Block */
 
 #sidebar-right .block {
-padding-left:0px;
+padding-left:10px; /* Add 10 - 0px*/
 }
 
 #sidebar-right .block p{
