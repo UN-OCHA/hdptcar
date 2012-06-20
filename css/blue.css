@@ -354,8 +354,14 @@ list-style: none;
 /* Customize Block style on right sidebar*/
 
 #sidebar-right .block {
-padding:10px; /* initila 5px*/
+/*padding:10px;  initila 5px
+margin-top:25px;*/
+margin-bottom:25px;
 margin-top:25px;
+padding-bottom:10px;
+padding-left:10px;
+padding-right:10px;
+padding-top:10px;
 }
 /*customize block-panels-mini contextual-links-region unstyled-block*/
 #sidebar-right .block-panels_mini-videos_and_photos{
